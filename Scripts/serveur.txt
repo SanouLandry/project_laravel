@@ -1,0 +1,8 @@
+@echo off
+echo Demarrage du serveur..
+
+cd chemin du le projet laravel
+
+start /B "" "Chemin complet de l'executable de php" artisan serve
+
+echo Demarrage reussi du serveur.

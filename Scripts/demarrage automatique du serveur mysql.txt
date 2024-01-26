@@ -1,0 +1,8 @@
+1.aller dans Gestionnaire de taches puis services
+2.Chercher les services de wampserver ou easy php ou xamp
+3.Clique droit sur un service puis clique sur Ouvrir les services
+4.Chercher les services de wampserver ou easy php ou xamp
+5.Clique droit sur un service puis clique sur propriétés
+6.Dans Type de demarrage selectionner "Automatique" puis cliquer Ok
+7.Meme facon pour rendre le demarrage automatique dans les autres services
+
